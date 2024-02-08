@@ -1,0 +1,136 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "email": "mbels03@skiff.com",
+    "image": "",
+    "label": "Computer Science Student",
+    "location": {
+      "countryCode": "US",
+      "region": "New Jersey"
+    },
+    "name": "Michael Belsanti",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/michael-belsanti-a073001b9/",
+        "username": "Michael Belsanti"
+      },
+      {
+        "network": "Github",
+        "url": "https://github.com/michaelBelsanti",
+        "username": "michaelBelsanti"
+      }
+    ],
+    "url": "https://belsanti.dev"
+  },
+  "education": [
+    {
+      "area": "Computing and Informatics",
+      "endDate": "2023",
+      "institution": "Rowan University",
+      "score": "3.9",
+      "startDate": "2022",
+      "endData": "2024",
+      "studyType": "Bachelor",
+      "url": "https://rowan.edu/"
+    },
+    {
+      "area": "Cybersecurity",
+      "institution": "Rowan University",
+      "score": "3.9",
+      "startDate": "2023",
+      "studyType": "Master",
+      "url": "https://rowan.edu/"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Open Source"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Nix"
+    },
+    {
+      "name": "Rust"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
+    "lastModified": "2023-11-1T19:00:00",
+    "theme": "papirus",
+    "version": "v1.0.0"
+  },
+  "skills": [
+    {
+      "keywords": [
+        "NixOS",
+        "Debian",
+        "Ubuntu",
+        "Redhat"
+      ],
+      "level": "Advanced",
+      "name": "Linux System Administration"
+    },
+    {
+      "keywords": [
+        "CompTIA Network+"
+      ],
+      "level": "Advanced",
+      "name": "Networking"
+    },
+    {
+      "keywords": [
+        "Rust",
+        "Python",
+        "Javascript",
+        "PHP",
+        "Java",
+        "Git"
+      ],
+      "level": "Intermediate",
+      "name": "Software Developement"
+    },
+    {
+      "keywords": [
+        "Flakes",
+        "Package Maintainer",
+        "NixOS Modules"
+      ],
+      "level": "Advanced",
+      "name": "Nix"
+    }
+  ],
+  "work": [
+    {
+      "endDate": "2024-05-30",
+      "highlights": [
+        "Helped map company policies and procedures to NIST framework",
+        "Migrated database applications to Oracle APEX",
+        "Assisted in migrating on-prem databases to AWS",
+        "Assisted in organizing and writing ServiceNow Knowledge Base Documentation"
+      ],
+      "location": "Camden, NJ",
+      "name": "Subaru of America",
+      "position": "IT Infrastructure and Security Intern",
+      "startDate": "2023-05-30",
+      "url": "https://subaru.com"
+    },
+    {
+      "endDate": "2024-05-30",
+      "highlights": [
+        "Supported customers remotely and in person",
+        "Built and troubleshooted computers",
+        "Handled backups and migrations using a Linux desktop",
+        "Wrote Python scripts to analyze customer data using RepairShopr's API"
+      ],
+      "location": "Oaklyn, NJ",
+      "name": "PC Medics of NJ",
+      "position": "Computer Technician",
+      "startDate": "2022-07",
+      "url": "https://pcmedicsofnj.com"
+    }
+  ]
+}
